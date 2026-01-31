@@ -1,5 +1,5 @@
 BUILD = build
-BOOKNAME = fsfs-zh
+BOOKNAME = yfb-fsfs-zh
 TITLE = ebook/title.txt
 METADATA = ebook/metadata.xml
 TOC = --toc --toc-depth=2 --epub-chapter-level=2 
@@ -7,7 +7,8 @@ COVER_IMAGE = docs/cover.png
 LATEX_CLASS = book
 PANDOC_TEX = pandoc --from="markdown_mmd+link_attributes+backtick_code_blocks+fenced_code_attributes+raw_tex+latex_macros+header_attributes" $(TOC) --pdf-engine=xelatex -V documentclass=book
 TEMPLATE=./pdf
-PREFACES =  docs/foreword-trans.md \
+PREFACES =  docs/foreword-edit.md \
+            docs/foreword-trans.md \
 			docs/foreword-v3.md  \
 			docs/foreword-v1.md  \
 			docs/preface-v3.md  
