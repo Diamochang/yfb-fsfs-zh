@@ -1,0 +1,51 @@
+[![Build Status](https://travis-ci.org/Diamochang/yfb-fsfs-zh.svg?branch=master)](https://travis-ci.org/Diamochang/yfb-fsfs-zh)
+[![GitHub release](https://img.shields.io/github/release/Diamochang/yfb-fsfs-zh.svg)](https://github.com/Diamochang/yfb-fsfs-zh/releases)
+[![Github All Releases](https://img.shields.io/github/downloads/Diamochang/yfb-fsfs-zh/total.svg)](https://github.com/Diamochang/yfb-fsfs-zh/releases)
+
+Free Software, Free Society v3 Chinese Translation (Edited by Mike Wang)
+
+*A Part of FLOSS Pioneer Library, Yunhu FLOSS Bookstore*
+=========================
+
+![](docs/cover.png)
+
+在线阅读（Html）：<https://yfb-fsfs-zh.readthedocs.io/>
+
+下载电子版（PDF）：[这里下载](https://github.com/Diamochang/yfb-fsfs-zh/releases)
+
+下载电子书（EPUB）：[这里下载](https://github.com/Diamochang/yfb-fsfs-zh/releases)
+
+原译本仓库：<https://github.com/beijinglug/fsfs-zh>
+
+
+如何从源码构建
+--------
+
+参见 [BUILD.md](BUILD.md) 文档。
+
+
+如何参与
+-------
+
+请阅读[CONTRIBUTIONS.md](CONTRIBUTIONS.md)文档。
+
+BLUG 贡献者
+-------
+
+| 贡献者 | 贡献内容 |
+| ------ | -------- |
+| @nadebula | 翻译了第三、四、六和七部分以及其他一些文章 | 
+| @tonghuix | 翻译了一些文章，将某些既有翻译加入进来，大量校对 |
+| @liushuyu | 翻译了 Linux and GNU 一文，使用 Musescore 重制了自由软件之歌的乐谱 |
+| @persmle | 翻译了一些文章，大量校对 | 
+| @MandyMY | 大量校对和修订 |
+| @biergaizi | 少量翻译并做了大量社交网络推广 |
+| @mytbk | 少量翻译和校对，并协助 PDF 格式排版，Pandoc 及 Texlive 的格式适配等 |
+| @wxy | 参与修订，并将此书增加到[Linux中国](https://linux.cn)的每周微博、微信推送中 |
+| @IceCatX | 少量修订，并在他的学校里以及博客上推广此书 |
+| @hagb | 大量校对和修订，解决了交叉引用格式问题，并将此书反馈到 GNU 官网的中文翻译中 | 
+
+授权许可
+--------
+
+GNU FDL 1.3 （GNU 自由文档许可证）

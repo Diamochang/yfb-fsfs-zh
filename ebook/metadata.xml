@@ -1,0 +1,18 @@
+---
+title:
+- type: main
+  text: 自由软件，自由社会
+- type: subtitle
+  text: 理查德·斯托曼选集（第三版）
+creator:
+- role: author
+  text: Richard M. Stallman
+- role: translator
+  text: Beijing GNU/Linux User Group
+- role: translator
+  text: GNU Chinese Translators Team
+- role: editor
+  text: Mike Wang
+publisher: Yunhu FLOSS Bookstore
+rights: © 2016-2019 Beijing GNU/Linux User Group, 2026 Mike Wang. Licensed under GNU FDL 1.3 or above.
+...
