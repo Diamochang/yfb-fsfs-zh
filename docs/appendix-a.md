@@ -1,6 +1,6 @@
 # 关于软件的基础知识<!--(pandoc) {#pandoc_appendix-a}(pandoc)-->
 
-> Copyright © 2002 Richard E.Buckman and Joshua Gay. 此文最早发布于 2002 年。
+> Copyright © 2002 Richard E. Buckman and Joshua Gay. 此文首次发表于 2002 年。
 
 由 Richard E. Buckman 和 Joshua Gay 撰写
 

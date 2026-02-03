@@ -1,7 +1,8 @@
 ## GNU 宽通用许可证<!--(pandoc) {#pandoc_lgpl}(pandoc)-->
 
 > 中文翻译 Leo <leohca@yahoo.com>  源网页：<https://www.thebigfly.com/gnu/lgpl/lgpl-v3.php>
-> 修改：IFRFSX <1079092922@qq.com>
+
+> 修改者：IFRFSX <1079092922@qq.com>
 
 -----
 

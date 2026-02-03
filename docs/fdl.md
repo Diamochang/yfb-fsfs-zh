@@ -1,11 +1,12 @@
 ## GNU 自由文档许可证<!--(pandoc) {#pandoc_fdl}(pandoc)-->
 
 > 此版本由 Leo-Hong (leohca (at) yahoo.com) 翻译整理。源网页：<https://www.thebigfly.com/gnu/FDLv1.3/>。
-> 修改者：IFRFSX <1079092922@qq.com>
+
+> 修改者：IFRFSX（<1079092922@qq.com>）
 
 -----
 
-这是一份 GNU 自由文档许可证非正式的中文翻译。它并非由自由软件基金会所发表，亦非使用 GNU 自由文档许可证的文件的法定发布条款——只有 GNU 自由文档许可证英文原文 <https://www.gnu.org/licenses/fdl.html>的版本始具有此等效力。然而，我们希望这份翻译能帮助中文的使用者更了解 GNU 自由文档许可证。 
+这是一份 GNU 自由文档许可证非正式的中文翻译。它并非由自由软件基金会所发表，亦非使用 GNU 自由文档许可证的文件的法定发布条款——只有 GNU 自由文档许可证英文原文 <https://www.gnu.org/licenses/fdl.html> 的版本始具有此等效力。然而，我们希望这份翻译能帮助中文的使用者更了解 GNU 自由文档许可证。
 
 This is an unofficial translation of the GNU Free Documentation License into Chinese. It was not published by the Free Software Foundation, and does not legally state the distribution terms for documents that uses the GNU FDL--only the original English text of the GNU FDL <https://www.gnu.org/licenses/fdl.html> does that. However, we hope that this translation will help Chinese speakers understand the GNU FDL better.
 
@@ -13,7 +14,7 @@ This is an unofficial translation of the GNU Free Documentation License into Chi
 
 第 1.3 版，2008 年 11 月
 
-Copyright © 2000,2001,2002,2007,2008 自由软件基金会 <http://fsf.org/>
+Copyright © 2000, 2001, 2002, 2007, 2008 自由软件基金会 <http://fsf.org/>
 
 允许每个人复制和发布本许可证文件的完整副本，  
 但不允许对它进行任何修改。
@@ -40,7 +41,7 @@ Copyright © 2000,2001,2002,2007,2008 自由软件基金会 <http://fsf.org/>
 
 文件的“透明”副本指的是一份机器可读的副本，它以一种一般公众可以取得其规格说明的格式来表现，适合于直接用一般文字编辑器、一般点阵图像程序用于由图元像素构成的影像或一些可以广泛取得的绘图程序用于由向量绘制的图形直接地进行修订；并且适合于输入到文字格式化程式，或是可以自动地转换到适合于输入到文字格式化程序的各种格式。一份以透明以外的档案格式所构成的副本，其标记或缺少标记，若是被安排成用来挫折或是打消读者进行其后续的修改，则此副本并非透明。一种影像格式，如果仅仅是用来充斥文本的资料量时，就不是透明的。一个不是透明的副本被称为混浊。
 
-透明副本适合格式的例子包括有：没有标记的纯 ASCII、Texinfo 输入格式、<!--(pdf)\LaTeX\iffalse (pdf)-->LaTeX<!--(pdf) \fi(pdf)--> 输入格式、使用可以公开取得其 DTD 的 SGML 或 XML、合乎标准的简单 HTML、PostScript 或 PDF。透明影像格式的例子有 PNG、XCF 和 JPG。混浊格式包括只能够以私人文书处理器阅读以及编辑的私人格式、DTD 以及或处理工具不能够一般地加以取得的 SGML 或 XML、以及由某些文书处理器只是为了输出的目的而做出的，由机器制作的 HTML、PostScript 或 PDF。
+透明副本适合格式的例子包括有：没有标记的纯 ASCII、Texinfo 输入格式、<!--(pdf)\LaTeX \iffalse (pdf)-->LaTeX<!--(pdf) \fi(pdf)--> 输入格式、使用可以公开取得其 DTD 的 SGML 或 XML、合乎标准的简单 HTML、PostScript 或 PDF。透明影像格式的例子有 PNG、XCF 和 JPG。混浊格式包括只能够以私人文书处理器阅读以及编辑的私人格式、DTD 以及或处理工具不能够一般地加以取得的 SGML 或 XML、以及由某些文书处理器只是为了输出的目的而做出的，由机器制作的 HTML、PostScript 或 PDF。
 
 标题页对一本印刷书籍来说，指的是标题页本身，以及所需要用来容纳本许可证必须出现在标题页的易读内容的，如此的接续数页。对于并没有任何如此页面的作品的某些格式，标题页指的是本文主体开始之前作品标题最显着位置的文字。
 
@@ -156,7 +157,7 @@ Copyright © 2000,2001,2002,2007,2008 自由软件基金会 <http://fsf.org/>
 
 “MMC 网站”是指任何发布有版权作品的网站服务器，也为任何人提供卓越的设施去编辑一些作品。任何人都可编辑的一种公众维基就是这种服务器的一个例子。包含在这个网站的“MMC”是指任何一套在 MMC 网站上发布的具有著作版权的作品。
 
-“CC-BY-SA”是指 Creative Commons Attribution-Share Alike 3.0 许可证，它是被“知识共享组织” 颁布的，“知识共享组织” 是一家非赢利性的，在加利福尼亚州圣弗朗西斯科具有重要的商业地位的组织。而且未来的“copyleft”版本的许可证也是被同一个组织发布的。
+“CC-BY-SA”是指 Creative Commons Attribution-Share Alike 3.0 （知识共享署名-相同方式共享 3.0）许可证，它是被“知识共享组织”颁布的，“知识共享组织”是一家非营利性的，在加利福尼亚州圣弗朗西斯科（旧金山）创立的具有重要的商业地位的组织。而且未来的“copyleft”版本的许可证也是被同一个组织发布的。
 
 “合并”是指以整体或作为另一个文本的部分发布或重新发布一个文本。
 

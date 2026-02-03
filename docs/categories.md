@@ -6,7 +6,7 @@
 
 ![自由与非自由软件的分类](category.svg)<!--(pdf-svg)--><!--(pdf){ width=90% }(pdf)-->
 
-> 本图最初由 Chao-Kuei 创作并且经过其他人的更新，解释了不同类别的软件之间的区别。它有矢量图版，位于 <http://gnu.org/philosophy/category.svg>（以及中文矢量图版，位于 <https://www.gnu.org/philosophy/category.zh-cn.svg>），以及 XFig 格式版本，位于 <http://gnu.org/philosophy/category.fig>。本图采用 GNU 通用公共许可证（GNU GPL）2.0 或更高版本、GNU 自由文档许可证（GNU FDL）1.2 或更高版本、或者创作共用-署名-相同方式共享（CC BY-SA）许可证 2.0 或更高版本。
+> 本图最初由 Chao-Kuei 创作并且经过其他人的更新，解释了不同类别的软件之间的区别。它有矢量图版，位于 <https://gnu.org/philosophy/category.svg>（以及中文矢量图版，位于 <https://www.gnu.org/philosophy/category.zh-cn.svg>），以及 XFig 格式版本，位于 <https://gnu.org/philosophy/category.fig>。本图采用 GNU 通用公共许可证（GNU GPL）2.0 或更高版本、GNU 自由文档许可证（GNU FDL）1.2 或更高版本、或者知识共享署名-相同方式共享（CC BY-SA）许可证 2.0 或更高版本。
 
 ### 自由软件（Free Software）
 
@@ -14,7 +14,7 @@
 
 如果一个程序是自由的，它就有可能被包含在一种自由的操作系统中，例如 GNU，或者 GNU/Linux 操作系统的自由版本[^cate-1]。
 
-还有很多种方式可以使程序成为自由的——有很多细节的问题，对这些问题可以有多种方式的决定，而仍然能够使程序成为自由的。一些可能的变体将会在下文进行描述。如果需要获得关于具体的自由软件许可证的信息，参见《许可证列表》页面 <http://gnu.org/licenses/license-list.html>。
+还有很多种方式可以使程序成为自由的——有很多细节的问题，对这些问题可以有多种方式的决定，而仍然能够使程序成为自由的。一些可能的变体将会在下文进行描述。如果需要获得关于具体的自由软件许可证的信息，参见《许可证列表》页面 <https://gnu.org/licenses/license-list.html>。
 
 自由软件关乎自由而非价格。但是专有软件公司一般使用“free software”这一短语来指代价格。有时它们的意思是您可以免费获得一份二进制副本；有时它们的意思是在您所购买的计算机上捆绑了一份副本，而整台计算机的价格包含了二者各自的价格。不管是哪种方式，这都与我们在 GNU 计划中所指的自由软件无关。
 
@@ -46,7 +46,7 @@
 
 Copyleft 软件是一类自由软件，其发布条款可以保证它所有版本的所有副本都或多或少带有相同的发布条款。例如，这意味着 copyleft 许可证普遍禁止他人为该软件添加额外的限制条款（尽管有限的一些安全的附加条款可能被允许），并且要求源代码可获得。这可以保护该程序及其修改版本，使得常见的某些方式无法将其变为专有软件。
 
-一些 copyleft 许可证例如 GNU 通用公共许可证（GNU GPL）第三版阻止了其他一些专有化的方式，例如 Tivo 化（tivoization）[^cate-4]。
+一些 copyleft 许可证例如 GNU 通用公共许可证（GNU GPL）第三版阻止了其他一些专有化的方式，例如 Tivo 化（Tivoization）[^cate-4]。
 
 在 GNU 计划中，我们为我们所写的*几乎所有*软件使用了 copyleft 许可证，由于我们的终极目标是赋予每位用户自由软件所蕴含的所有基本自由。参见我们关于 copyleft 的文章[《什么是 Copyleft？》](copyleft.md)以获知关于 copyleft 许可证如何发挥作用以及我们为何使用它们的更多解释。
 
@@ -146,7 +146,7 @@ FSF 遵循这样的规则：我们不能在自己的计算机上安装任何专�
 
  [^cate-1]: 参见[《Linux 和 GNU 操作系统》](linux-and-gnu.md)一文以获得更多信息。 
 
- [^cate-2]: 参见《自由软件更值得信赖！》一文，位于 <http://gnu.org/software/reliability.html>。 
+ [^cate-2]: 参见《自由软件更值得信赖！》一文，位于 <https://gnu.org/software/reliability.html>。
 
  [^cate-3]: 参见[《为什么说开源漏掉了自由软件的要点》](open-source-misses-the-point.md)一文。 
 
@@ -154,15 +154,15 @@ FSF 遵循这样的规则：我们不能在自己的计算机上安装任何专�
 
  [^cate-5]: 参见[《X Window 系统的陷阱》](x.md)。 
 
- [^cate-6]: 参见 “The BSD License Problem,” 一文，位于 <http://gnu.org/philosophy/bsd.html>。 
+ [^cate-6]: 参见 “The BSD License Problem,” 一文，位于 <https://gnu.org/philosophy/bsd.html>。
 
- [^cate-7]: 参见 “GNU 系统概览” 一文，位于 <http://gnu.org/gnu/gnu-history.html> 以获知更多历史背景。
+ [^cate-7]: 参见 “GNU 系统概览” 一文，位于 <https://gnu.org/gnu/gnu-history.html> 以获知更多历史背景。
 
  [^cate-8]: 参见[《Linux 和 GNU 操作系统》](linux-and-gnu.md)一文以获得更多信息。 
 
- [^cate-9]: 参见 “GNU 系统概览” 一文，位于 <http://gnu.org/gnu/gnu-history.html> 以获知更多历史背景。
+ [^cate-9]: 参见 “GNU 系统概览” 一文，位于 <https://gnu.org/gnu/gnu-history.html> 以获知更多历史背景。
 
- [^cate-10]: 参见 <http://directory.fsf.org>。 
+ [^cate-10]: 参见 <https://directory.fsf.org>。
 
- [^cate-11]: 参见 <http://gnu.org/people/people.html>。 
+ [^cate-11]: 参见 <https://gnu.org/people/people.html>。
 

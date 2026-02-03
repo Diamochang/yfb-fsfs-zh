@@ -7,8 +7,8 @@ COVER_IMAGE = docs/cover.png
 LATEX_CLASS = book
 PANDOC_TEX = pandoc --from="markdown_mmd+link_attributes+backtick_code_blocks+fenced_code_attributes+raw_tex+latex_macros+header_attributes" $(TOC) --pdf-engine=xelatex -V documentclass=book
 TEMPLATE=./pdf
-PREFACES =  docs/foreword-edit.md \
-            docs/foreword-trans.md \
+PREFACES =	docs/foreword-edit.md \
+			docs/foreword-trans.md \
 			docs/foreword-v3.md  \
 			docs/foreword-v1.md  \
 			docs/preface-v3.md  
@@ -69,16 +69,16 @@ APPENDIXS =	docs/appendix-a.md \
 			docs/appendix-c.md
 APPENDIXS_PANDOC = $(shell echo $(APPENDIXS) | sed 's/.md/_pandoc.md/g')
 APPENDIXS_PDF = $(shell echo $(APPENDIXS) | sed 's/.md/_pdf.md/g')
-PDF_IMG = category.pdf code-zh.pdf song-book-jutta-scrunch-crop-zh.pdf
+PDF_IMG =	docs/category.pdf \
+			docs/code.pdf \
+			docs/song-book-jutta-scrunch-crop-zh.pdf
 
 all: book html
 
 book: epub pdf odf
 
 clean:
-	-rm $(PDF_IMG) 
 	-rm $(PREFACES_PDF) $(CHAPTERS_PDF) $(APPENDIXS_PDF) $(PREFACES_PANDOC) $(CHAPTERS_PANDOC) $(APPENDIXS_PANDOC)
-	-rm $(BOOKNAME).*
 	-rm code* category* song* cover*
 	-rm *.tex
 	-rm -r site

@@ -1,6 +1,6 @@
 ## 如今自由软件更加重要<!--(pandoc) {#pandoc_free-software-even-more-important}(pandoc)-->
 
-> Copyright © 2015 Richard Stallman. 本文经大幅修改后在 2013 年 9 月 28 日发表于《连线》网络杂志，标题是[“Why Free Software Is More Important Now Than Ever Before”](https://wired.com/opinion/2013/09/why-free-software-is-more-important-now-than-ever-before)。
+> Copyright © 2015 Richard Stallman. 本文经大幅修改后在 2013 年 9 月 28 日发表于《连线》杂志网站，标题是[“Why Free Software Is More Important Now Than Ever Before”](https://wired.com/opinion/2013/09/why-free-software-is-more-important-now-than-ever-before)。
 
 自 1983 年以来，自由软件运动一直在为计算机用户的自由而战——用户控制他们使用的软件，而不是相反。当一个程序尊重用户和社区的自由时，我们把它称为“自由软件”。
 

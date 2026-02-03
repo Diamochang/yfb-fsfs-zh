@@ -1,12 +1,12 @@
 ## 电子书必须增进我们的自由而非限制我们的自由<!--(pandoc) {#pandoc_ebooks-must-increase-freedom}(pandoc)-->
 
-> Copyright © 2012 Richard Stallman. 本文最初于 2012 年 4 月 17 日以标题“Technology Should Help Us Share, Not Constrain Us”，发表于英国《卫报》，并带有一些特别的修订。此版本整合了部分修订，同时恢复了部分原文。
+> Copyright © 2012 Richard Stallman. 本文在 2012 年 4 月 17 日以标题“Technology Should Help Us Share, Not Constrain Us”首次发表于英国《卫报》，并带有一些特别的修订。此版本整合了部分修订，同时恢复了部分原文。
 
 我喜欢 The Jehovah Contract 这本书，也希望每个人都喜欢它。这些年来，我已经至少借出它六次了。纸版书允许我们这么做。
 
 我不能对大部分商业电子书如此，因为这是“不被允许的”。如果我们试图违反，阅读器中的软件具有一种称为数字限制管理（DRM）的恶意功能，它将会限制用户阅读，因此不能分享。由于电子书是加密的，只有具有恶意功能的私有软件才能显示它们。
 
-我们作为读者所习惯的很多其他阅读方式对于电子书是“不被允许的”。对于亚马逊 Kindle（更合适它的名字是 Swindle [^ebooks-1]），作为一个例子，用户不能使用现金匿名购买电子书。Kindle 的电子书通常仅可以从亚马逊获得，而亚马逊要求用户提供身份信息。由此亚马逊知道每位用户读了哪些书。在某些国家，例如英国，您可能会由于拥有一本禁书而被起诉[^ebooks-2]，这比假想中的奥威尔主义（Orwellian）[^ebooks-n]更加残酷。
+我们作为读者所习惯的很多其他阅读方式对于电子书是“不被允许的”。对于亚马逊 Kindle（更合适它的名字是 Swindle[^ebooks-1]），作为一个例子，用户不能使用现金匿名购买电子书。Kindle 的电子书通常仅可以从亚马逊获得，而亚马逊要求用户提供身份信息。由此亚马逊知道每位用户读了哪些书。在某些国家，例如英国，您可能会由于拥有一本禁书而被起诉[^ebooks-2]，这比假想中的奥威尔主义（Orwellian）[^ebooks-n]更加残酷。
 
 [^ebooks-n]: 指现代专制政权借由严厉执行政治宣传、监视、故意提供虚假资料、否认事实（双重思想）和操纵过去（包括制造“非人”，意指把一个人过去的存在从公共记录和记忆中消除）的政策以控制社会，就如《一九八四》（作者乔治·奥威尔）中的世界观一样。——译者注，摘自维基百科
 
@@ -40,5 +40,5 @@
 
  [^ebooks-4]: 参见 <https://gnu.org/proprietary/proprietary.html> 以获知一系列日益增长的威胁。 
 
- [^ebooks-5]: 参见我的文章[《如今自由软件更加重要》](free-software-even-more-important.md)和 “The Problem Is Software Controlled by Its Developer,” 位于 <https://gnu.org/philosophy/the-root-of-this-problem.html> 以获得更多信息。
+ [^ebooks-5]: 参见我的文章[《如今自由软件更加重要》](free-software-even-more-important.md)和 “The Problem Is Software Controlled by Its Developer” <https://gnu.org/philosophy/the-root-of-this-problem.html> 以获得更多信息。
 

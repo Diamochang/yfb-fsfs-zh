@@ -1,6 +1,6 @@
 ## JavaScript 陷阱<!--(pandoc) {#pandoc_javascript-trap}(pandoc)-->
 
-> Copyright © 2009–2013 Richard Stallman 
+> Copyright © 2009–2013 Richard Stallman.
 
 > 您可能每天都在您的计算机上通过您的浏览器运行非自由软件而没有意识到这一点。
 

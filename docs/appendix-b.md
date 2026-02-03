@@ -1,6 +1,7 @@
 # 不同语言对“自由软件”和“免费软件”的翻译<!--(pandoc) {#pandoc_appendix-b}(pandoc)-->
 
-> Copyright © 1999, 2000, 2004, 2006–2015 自由软件基金会 
+> Copyright © 1999, 2000, 2004, 2006–2015 自由软件基金会。
+
 > 更新的翻译列表可参见 <https://gnu.org/philosophy/fs-translations.html>。增加新的语种翻译可联系 <web-translators@gnu.org>。
 
 以下列出的是对“自由软件”和“免费软件”不同语种的翻译，拆分成不同的列以便比较。个别条目中的拉丁字母表示的是音译（相关位置增加了元音）。

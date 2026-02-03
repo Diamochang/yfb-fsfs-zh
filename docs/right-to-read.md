@@ -84,13 +84,13 @@ Lissa 没有向 SPA 举报 Dan，而他关于帮助她的决定使得他们终�
 
 ### 参考文献
 
--   美国专利及商标局（USPTO），Intellectual Property and the National Information Infrastructure: The Report of the Working Group on Intellectual Property Rights, Washington, DC: GPO, 1995.（参见[《还在用“知识产权”这词吗？它只是看上去很美》](not-ipr.md)一文以获知为何“知识产权”这一短语是含混不清的并且永远不应被使用）。
+-   美国专利及商标局（USPTO），Intellectual Property and the National Information Infrastructure: The Report of the Working Group on Intellectual Property Rights, Washington, DC: GPO, 1995.（参见[《还在用“知识产权”这词吗？它只是看上去很美》](not-ipr.md)一文以获知为何“知识产权”这一短语是含混不清的并且永远不应被使用。）
 
--   Samuelson, Pamela, “The Copyright Grab,” *Wired,* January 1996, 4.01, <http://wired.com/wired/archive/4.01/white.paper_pr.html>.
+-   Samuelson, Pamela, “The Copyright Grab,” *Wired,* January 1996, 4.01, <http://wired.com/wired/archive/4.01/white.paper_pr.html>.（原链接已失效，杂志网站现存链接 <https://www.wired.com/1996/01/white-paper> 需要付费阅读。互联网档案馆存有数份历史页面，其中一份的链接是 <https://web.archive.org/web/20131223194329/http://wired.com/wired/archive/4.01/white.paper_pr.html>。——编者按。）
 
 -   Boyle, James, “Sold Out,” *New York Times,* 31 March 1996, sec. 4, p. 15; 也可以在这里找到：<https://law.duke.edu/boylesite/sold_out.htm>.
 
--   社论，*Washington Post,* “Public Data or Private Data,” 3 November 1996, sec. C, p. 6, [http://web.archive.org/web/20130508120533/http://www.interesting-people.org/archives/interesting-people/199611/msg00012.html](http://web.archive.org/web/20130508120533/http://www.interesting-people.org/archives/interesting-people/199611/msg00012.html).
+-   社论，*Washington Post,* “Public Data or Private Data,” 3 November 1996, sec. C, p. 6, [https://web.archive.org/web/20130508120533/http://www.interesting-people.org/archives/interesting-people/199611/msg00012.html](https://web.archive.org/web/20130508120533/http://www.interesting-people.org/archives/interesting-people/199611/msg00012.html).
 
 -   公有领域联盟（Union for the Public Domain）——一个致力于抵抗并且逆转版权和专利的权力过度扩张的组织。 
 

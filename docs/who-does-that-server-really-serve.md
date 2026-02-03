@@ -10,7 +10,7 @@ SaaSS 指的是使用某种由其他人实现的服务来替代您所运行的�
 
 数字技术可以赋予您自由，也可以剥夺您的自由。对于我们掌控自己计算的首要威胁来自*私有软件*：私有软件是用户所不能控制的，由于它受其拥有者（例如苹果或微软这样的商业公司）控制。其拥有者通常利用这种不公的权力向其中植入恶意功能，诸如间谍软件、后门、数字限制管理（DRM，它们将其鼓吹为数字版权管理）[^server-1]。
 
-> 如需获得关于此问题的更多信息，参见“The Bug Nobody Is Allowed to Understand,”一文，它位于 <http://gnu.org/philosophy/bug-nobody-allowed-to-understand.html>。
+> 如需获得关于此问题的更多信息，参见“The Bug Nobody Is Allowed to Understand,”一文，它位于 <https://gnu.org/philosophy/bug-nobody-allowed-to-understand.html>。
 
 我们针对这个问题的解决方案是开发*自由软件*并且拒绝私有软件。自由软件意味着您作为用户拥有四项基本自由：（0）以任何目的运行该软件的自由；（1）研究和修改源代码使其以您所期望的方式工作的自由；（2）再发布相同副本的自由；（3）再发布您的修改版本的自由（参见[《什么是自由软件？》](free-sw.md)一文中有关自由软件定义）。
 
@@ -108,7 +108,7 @@ Google Docs 向我们展示要评估单一服务到底可以有多么复杂。�
 
  [^server-1]: 请加入我们的设计性缺陷（Defective by Design）运动一起反对 DRM，它位于 [DefectiveByDesign.org](https://DefectiveByDesign.org)。 
 
- [^server-2]: 如需获知监控正在通过哪些日益增加的方式在业界蔓延，参见 <http://gnu.org/philosophy/proprietary/proprietary-surveillance.html>。
+ [^server-2]: 如需获知监控正在通过哪些日益增加的方式在业界蔓延，参见 <https://gnu.org/philosophy/proprietary/proprietary-surveillance.html>。
 
  [^server-3]: Amy Webb, “Congratulations, You Found a Photo of My Daughter Online,” 12 September 2013, [https://slate.com/articles/technology/data_mine_1/2013/09/privacy_facebook_kids_don_t_post_photos_of_your_kids_on_social_media.html](https://slate.com/articles/technology/data_mine_1/2013/09/privacy_facebook_kids_don_t_post_photos_of_your_kids_on_social_media.html). 
 

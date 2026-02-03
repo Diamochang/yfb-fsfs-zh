@@ -340,45 +340,45 @@ Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Lin
 
  [^wordtoavoid-2]: 参见[《如今自由软件更加重要》](free-software-even-more-important.md)和[《服务器真正是在为谁服务？》](who-does-that-server-really-serve.md)以获得更多信息。
 
- [^wordtoavoid-3]: 参见 “The BSD License Problem” 一文，位于 <http://gnu.org/philosophy/bsd.html>。
+ [^wordtoavoid-3]: 参见 “The BSD License Problem” 一文，位于 <https://gnu.org/philosophy/bsd.html>。
 
- [^wordtoavoid-4]: 参见 “Various Licenses and Comments about Them”，位于 <http://gnu.org/licenses/license-list.html>。
+ [^wordtoavoid-4]: 参见 “Various Licenses and Comments about Them”，位于 <https://gnu.org/licenses/license-list.html>。
 
  [^wordtoavoid-5]: 参见[《为什么说开源漏掉了自由软件的要点》](open-source-misses-the-point.md)。
 
  [^wordtoavoid-6]: 参见《自由与非自由软件的分类》以获得[关于私有软件的更多信息](categories.md#proprietary-software)。
 
- [^wordtoavoid-7]: John Harris，“Why Hackers and Spooks Want Our Heads in the Cloud”，2011 年四月 25 日，[http://guardian.co.uk/commentisfree/2011/apr/25/hackers-spooks-cloud-antiauthoritarian-dream](http://guardian.co.uk/commentisfree/2011/apr/25/hackers-spooks-cloud-antiauthoritarian-dream)。
+ [^wordtoavoid-7]: John Harris，“Why Hackers and Spooks Want Our Heads in the Cloud”，2011 年四月 25 日，[https://guardian.co.uk/commentisfree/2011/apr/25/hackers-spooks-cloud-antiauthoritarian-dream](https://guardian.co.uk/commentisfree/2011/apr/25/hackers-spooks-cloud-antiauthoritarian-dream)。
 
  [^wordtoavoid-8]: 参见[《服务器真正是在为谁服务？》](who-does-that-server-really-serve.md)以获得关于此问题的更多信息。
 
- [^wordtoavoid-9]: Peter Mell 和 Anthony Grance，“The NIST Definition of Cloud Computing: Recommendations of the National Institute of Standards and Technology”，NIST Special Publication 800-145 (2011 年九月)，[http://csrc.nist.gov/publications/nistpubs/800-145/SP800-145.pdf](http://csrc.nist.gov/publications/nistpubs/800-145/SP800-145.pdf)。
+ [^wordtoavoid-9]: Peter Mell 和 Anthony Grance，“The NIST Definition of Cloud Computing: Recommendations of the National Institute of Standards and Technology”，NIST Special Publication 800-145 (2011 年九月)，[https://csrc.nist.gov/publications/nistpubs/800-145/SP800-145.pdf](https://csrc.nist.gov/publications/nistpubs/800-145/SP800-145.pdf)。
 
- [^wordtoavoid-10]: Dan Farber，“Oracle’s Ellison Nails Cloud Computing”，2008 年九月 26 日，<http://news.cnet.com/8301-13953_3-10052188-80.html>。 
+ [^wordtoavoid-10]: Dan Farber，“Oracle’s Ellison Nails Cloud Computing”，2008 年九月 26 日，<https://news.cnet.com/8301-13953_3-10052188-80.html>。
 
  [^wordtoavoid-11]: 参见[《对版权的错误解读——一系列错误》](misinterpreting-copyright.md) 一文以获得关于此问题的更多信息。
 
- [^wordtoavoid-12]: Lara O’Reilly，“A Former Googler Has Declared War on Ad Blockers with a New Startup That Tackles Them in an Unorthodox Way”，2015 年六月 18 日，[http://uk.businessinsider.com/former-google-exec-launches-sourcepoint-with-10-million-series-a-funding-2015-6?r=US&IR=T](http://uk.businessinsider.com/former-google-exec-launches-sourcepoint-with-10-million-series-a-funding-2015-6?r=US&IR=T)。
+ [^wordtoavoid-12]: Lara O’Reilly，“A Former Googler Has Declared War on Ad Blockers with a New Startup That Tackles Them in an Unorthodox Way”，2015 年六月 18 日，[https://uk.businessinsider.com/former-google-exec-launches-sourcepoint-with-10-million-series-a-funding-2015-6?r=US&IR=T](https://uk.businessinsider.com/former-google-exec-launches-sourcepoint-with-10-million-series-a-funding-2015-6?r=US&IR=T)。
 
  [^wordtoavoid-13]: 参见[《如今自由软件更加重要》](free-software-even-more-important.md)一文以获得关于此问题的更多信息。
 
- [^wordtoavoid-14]: Owen Hatherley，“Be a User, Not a Consumer: How Capitalism Has Changed Our Language”，2013 年八月 11 日，[http://theguardian.com/commentisfree/2013/aug/11/capitalism-language-raymond-williams](http://theguardian.com/commentisfree/2013/aug/11/capitalism-language-raymond-williams)。
+ [^wordtoavoid-14]: Owen Hatherley，“Be a User, Not a Consumer: How Capitalism Has Changed Our Language”，2013 年八月 11 日，[https://theguardian.com/commentisfree/2013/aug/11/capitalism-language-raymond-williams](https://theguardian.com/commentisfree/2013/aug/11/capitalism-language-raymond-williams)。
 
- [^wordtoavoid-15]: 美国摇滚音乐家 Courtney Love 于 2000 年五月 16 日在数字好莱坞在线娱乐会议上的演讲的未编辑抄本可以在此找到：<http://www.salon.com/2000/06/14/love_7/>。
+ [^wordtoavoid-15]: 美国摇滚音乐家 Courtney Love 于 2000 年五月 16 日在数字好莱坞在线娱乐会议上的演讲的未编辑抄本可以在此找到：<https://www.salon.com/2000/06/14/love_7/>。
 
  [^wordtoavoid-16]: 参见[《还在用“知识产权”这词吗？它只是看上去很美》](not-ipr.md)以及[本文的“知识产权（Intellectual Property）”一节](words-to-avoid.md#intellectual-property)获知这一问题的原因。
 
- [^wordtoavoid-17]:  Cory Doctorow，“Encryption Won’t Work If It Has a Back Door Only the ‘Good Guys’ Have Keys To”，2015 年五月 1 日，[http://theguardian.com/technology/2015/may/01/encryption-wont-work-if-it-has-a-back-door-only-the-good-guys-have-keys-to-](http://theguardian.com/technology/2015/may/01/encryption-wont-work-if-it-has-a-back-door-only-the-good-guys-have-keys-to-)。
+ [^wordtoavoid-17]:  Cory Doctorow，“Encryption Won’t Work If It Has a Back Door Only the ‘Good Guys’ Have Keys To”，2015 年五月 1 日，[https://theguardian.com/technology/2015/may/01/encryption-wont-work-if-it-has-a-back-door-only-the-good-guys-have-keys-to-](https://theguardian.com/technology/2015/may/01/encryption-wont-work-if-it-has-a-back-door-only-the-good-guys-have-keys-to-)。
 
- [^wordtoavoid-18]: 参见 <http://www.gnu.org/philosophy/floss-and-foss.html> 以获得关于此问题的更多信息。
+ [^wordtoavoid-18]: 参见 <https://www.gnu.org/philosophy/floss-and-foss.html> 以获得关于此问题的更多信息。
 
  [^wordtoavoid-19]: 参见上一条脚注。
 
- [^wordtoavoid-20]: “DuckDuckGo Privacy Policy”，最后更新于 2012 年四月 12 日，<https://duckduckgo.com/privacy>。
+ [^wordtoavoid-20]: “DuckDuckGo Privacy Policy”，最后更新于 2012 年 4 月 12 日，<https://duckduckgo.com/privacy>。
 
- [^wordtoavoid-21]: 参见我的文章 “On Hacking”，位于 <http://stallman.org/articles/on-hacking.html>。
+ [^wordtoavoid-21]: 参见我的文章 “On Hacking”，位于 <https://stallman.org/articles/on-hacking.html>。
 
- [^wordtoavoid-22]: Richard Stallman，“Public Awareness of Copyright, WIPO, June 2002”，最后更新于 2014 年，[http://gnu.org/philosophy/wipo-PublicAwarenessOfCopyright-2002.html](http://gnu.org/philosophy/wipo-PublicAwarenessOfCopyright-2002.html)。
+ [^wordtoavoid-22]: Richard Stallman，“Public Awareness of Copyright, WIPO, June 2002”，最后更新于 2014 年，[https://gnu.org/philosophy/wipo-PublicAwarenessOfCopyright-2002.html](https://gnu.org/philosophy/wipo-PublicAwarenessOfCopyright-2002.html)。
 
  [^wordtoavoid-23]: 参见[《Linux 和 GNU 操作系统》](linux-and-gnu.md)一文以获知 GNU/Linux 操作系统的更多历史背景，由于它与本文所提到的命名问题相关。
 
@@ -386,13 +386,13 @@ Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Lin
 
  [^wordtoavoid-25]: 参见 <http://directory.fsf.org/wiki/GIMP>。
 
- [^wordtoavoid-26]: Ernesto Van der Sar，“MPAA Banned from Using Piracy and Theft Terms in Hotfile Trial”，2013 年十一月 29 日，[http://torrentfreak.com/mpaa-banned-from-using-piracy-and-theft-terms-in-hotfile-trial-131129](http://torrentfreak.com/mpaa-banned-from-using-piracy-and-theft-terms-in-hotfile-trial-131129)。
+ [^wordtoavoid-26]: Ernesto Van der Sar，“MPAA Banned from Using Piracy and Theft Terms in Hotfile Trial”，2013 年 11 月 29 日，[https://torrentfreak.com/mpaa-banned-from-using-piracy-and-theft-terms-in-hotfile-trial-131129](https://torrentfreak.com/mpaa-banned-from-using-piracy-and-theft-terms-in-hotfile-trial-131129)。
 
  [^wordtoavoid-27]: “软件，作为恶意的”之意。
 
- [^wordtoavoid-28]: 参见这份说明以获得更多信息 <http://gnu.org/proprietary/proprietary-surveillance.html\#SpywareInSkype>。
+ [^wordtoavoid-28]: 参见这份说明以获得更多信息 <https://gnu.org/proprietary/proprietary-surveillance.html\#SpywareInSkype>。
 
- [^wordtoavoid-29]: 欧洲议会，“Directive on the Patentability of Computer-Implemented Inventions”，2003 年九月 24 日，[http://web.archive.org/web/20071222001014/http://www.swpat.ffii.org/papers/europarl0309](http://web.archive.org/web/20071222001014/http://www.swpat.ffii.org/papers/europarl0309)。
+ [^wordtoavoid-29]: 欧洲议会，“Directive on the Patentability of Computer-Implemented Inventions”，2003 年九月 24 日，[https://web.archive.org/web/20071222001014/http://www.swpat.ffii.org/papers/europarl0309](https://web.archive.org/web/20071222001014/http://www.swpat.ffii.org/papers/europarl0309)。
 
  [^wordtoavoid-30]: 为了驳斥他们，您可以援引这一真实案例：Harper Lee 起诉她的代理人涉嫌诱骗她将 To Kill a Mockingbird 一书的版权指认给他。
 

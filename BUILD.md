@@ -1,6 +1,6 @@
 # 如何构建《自由软件，自由社会》（有改动）
 
-这里给出如何在自己的机器上构建此书的简单介绍。~~因作者经验有限，此文仅列出 GNU/Linux 发行版下的构建，~~欢迎各位增补。
+这里给出如何在自己的机器上构建此书的简单介绍。~~因作者经验有限，此文仅列出 GNU/Linux 发行版下的构建，~~ 欢迎各位增补。
 
 ## 在线 HTML 整站
 
@@ -34,7 +34,7 @@ sudo pip3 install mkdocs
 
 `sudo dnf -y install @"Authoring and Publishing" pandoc pandoc-pdf pandoc-citeproc texlive-textpos texlive-tocbibind texlive-framed  texlive-appendix texlive-tabulary texlive-fandol google-noto-cjk-fonts texlive-bigfoot`
 
-这样可以安装必须的包。低于 Fedora 23（含）或 Debian 9 或 Ubuntu 16.04 的版本以及其他发行版可能需要安装 Fandol 系列字体，可以运行`install.fandol.sh`脚本安装。
+这样可以安装必须的包。~~低于 Fedora 23（含）或 Debian 9 或 Ubuntu 16.04 的版本以及其他发行版可能需要安装 Fandol 系列字体，可以运行`install.fandol.sh`脚本安装。~~（编辑本已弃用 Fandol，详见 [Issue #1](https://github.com/Diamochang/yfb-fsfs-zh/issues/1)）
 
 安装好后执行`make pdf`即可，会在当前目录下生成`yfb-fsfs-zh.pdf`文件。
 

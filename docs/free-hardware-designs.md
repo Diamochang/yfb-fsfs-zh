@@ -1,6 +1,6 @@
 ## 自由硬件和自由硬件设计<!--(pandoc) {#pandoc_free-hardware-designs}(pandoc)-->
  
-> Copyright © 2015 Richard Stallman。本文分成两部分，分别以标题“为什么我们需要自由的电子硬件设计” <http://wired.com/2015/03/need-free-digital-hardware-designs> 和“硬件设计必须自由，如何行动见此” <http://wired.com/2015/03/richard-stallman-how-to-make-hardware-designs-free>，发表于《连线》网络杂志。2015 年本文发表于 GNU 网站 <https://gnu.org>。
+> Copyright © 2015 Richard Stallman。本文分成两部分，分别以标题“为什么我们需要自由的电子硬件设计” <https://wired.com/2015/03/need-free-digital-hardware-designs> 和“硬件设计必须自由，如何行动见此” <https://wired.com/2015/03/richard-stallman-how-to-make-hardware-designs-free>，发表于《连线》杂志网站。2015 年本文发表于 GNU 网站 <https://gnu.org>。
 
 > 自由软件的思想向硬件延伸到什么范围？让我们的硬件设计自由是不是个道德义务，正如使我们的软件自由那样？维持我们的自由是否需要抵制出自非自由设计的硬件？
 
@@ -135,28 +135,27 @@
 我们已经有了可以让我们的硬件设计自由的合适许可证。我们需要的是作为一个社区将其认作我们所必做之事而在我们自行装配物品时坚持自由的设计。
 
 
+ [^freehard-1]: 参见[《什么是自由软件？》](free-sw.md)以查看四大基本自由的列表。
 
- [^freehard-1]: 参见[《什么是自由软件？》](free-sw.md)以查看四项基本自由的列表。
 
-
- [^freehard-2]: 参见 <http://gnu.org/philosophy/proprietary/proprietary-surveillance.html> 以查看一个在工业中扩散的监视手段的快速增长的列表。
+ [^freehard-2]: 参见 <https://gnu.org/philosophy/proprietary/proprietary-surveillance.html> 以查看一个在工业中扩散的监视手段的快速增长的列表。
 
 
  [^freehard-3]: 参见[《为什么说开源漏掉了自由软件的要点》](open-source-misses-the-point.md)一文
 
- [^freehard-4]: 参见 <http://clifford.at/icestorm/>. 
+ [^freehard-4]: 参见 <https://clifford.at/icestorm/>.
 
  [^freehard-5]: 参见 <https://github.com/Wolfgang-Spraul/fpgatools>
 
  [^freehard-6]: 参见[《如今自由软件更加重要》](free-software-even-more-important.md)一文
 
- [^freehard-7]: 参见 <http://fsf.org/resources/hw/endorsement>
+ [^freehard-7]: 参见 <https://fsf.org/resources/hw/endorsement>
 
  [^freehard-8]: Rich Brown, “Pulling Back from Open Source Hardware, MakerBot Angers Some Adherents,” 27 September 2012, <http://cnet.com/news/pulling-back-from-open-source-hardware-makerbot-angers-some-adherents/>.
 
  [^freehard-9]: 如本文中的用法，“数字硬件”包括在数字部分之外还有模拟部分的硬件。 
 
- [^freehard-10]: 参见美国版权局定义的“useful article”，于 <http://copyright.gov/register/va-useful.html>. 
+ [^freehard-10]: 参见美国版权局定义的“useful article”，于 <https://copyright.gov/register/va-useful.html>.
 
  [^freehard-11]: 一篇由 Public Knowledge 所写的文章“为你的 3D 打印产物赋予许可的三个步骤” <https://publicknowledge.org/assets/uploads/documents/3_Steps_for_Licensing_Your_3D_Printed_Stuff.pdf>（2015 年 3 月 6 日）。对其在美国的复杂性给出了很有用的信息，尽管该文落入了使用伪概念“知识产权”，和不应该和版权联用的宣传用语“保护”的常见谬误。若问为何，参见[《应避免使用（或慎用）的词语，由于它们是不公正的或者引起混淆的》一文的“保护（Protection）”一节](words-to-avoid.md#protection)。 
 

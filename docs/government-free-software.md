@@ -110,4 +110,4 @@
 
 [^gov-3]: 参见[《服务器真正是在为谁服务？》](who-does-that-server-really-serve.md)一文的相关章节，了解 SaaSS。
 
-[^gov-4]: 参见我的文章“Technological Neutrality and Free Software” [http://www.gnu.org/philosophy/technological-neutrality.html](http://www.gnu.org/philosophy/technological-neutrality.html)
+[^gov-4]: 参见我的文章“Technological Neutrality and Free Software” [http://www.gnu.org/philosophy/technological-neutrality.html](http://www.gnu.org/philosophy/technological-neutrality.html)。

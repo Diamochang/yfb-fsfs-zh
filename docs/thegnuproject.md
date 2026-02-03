@@ -1,6 +1,6 @@
 ## GNU 工程<!--(pandoc) {#pandoc_thegnuproject}(pandoc)-->
 
-> Copyright © 1998, 2001, 2002, 2005–2008, 2010 Richard Stallman。本文最初以标题“GNU 操作系统和自由软件运动”发表于由 Chris DiBona 等人编写的《开源软件文集：开源革命之声》（Sebastopol: O’Reilly Media, 1999）[^thegnu-0]。尽管我不是 “开放源码”的支持者，我还是贡献了这篇文章，这样自由软件运动的思想不会在那本书中完全失声。
+> Copyright © 1998, 2001, 2002, 2005–2008, 2010 Richard Stallman. 本文以标题“GNU 操作系统和自由软件运动”首次发表于由 Chris DiBona 等人编写的《开源软件文集：开源革命之声》（Sebastopol: O’Reilly Media, 1999）[^thegnu-0]。尽管我不是“开放源码”的支持者，我还是贡献了这篇文章，这样自由软件运动的思想不会在那本书中完全失声。
 
 [^thegnu-0]: 《开源软件文集：开源革命之声》一书中译本已由中国电力出版社于 1999 年 12 月出版，洪峰译。——译者注
 
@@ -334,7 +334,7 @@ Harmony 是一个兼容的替代库，设计为使得无需 Qt 运行 KDE 软件
 
 今天，我不是在单打独斗。当我看见一个团的黑客挖战壕坚守战线时的感觉是一种安慰和乐趣，我意识到，目前，这个城池也许能幸存。但是危险与年俱增，并且现在微软（Microsoft）已经明确地将目标对准我们的社区。我们不能把自由的将来视为天命。别把它当作天命！如果你想要保持你的自由，你必须备战以保卫它。
 
-[^thegnu-1]: 一部分大众传媒混淆地将“黑客”一词用来表示“安全破坏者”。我们作为黑客拒绝认可这个含义，并继续用这个词表示“那些喜爱编程、享受有趣的才智，或两者兼备的人。”见拙作 “On Hacking”，于 <http://stallman.org/articles/on-hacking.html>。 
+[^thegnu-1]: 一部分大众传媒混淆地将“黑客”一词用来表示“安全破坏者”。我们作为黑客拒绝认可这个含义，并继续用这个词表示“那些喜爱编程、享受有趣的才智，或两者兼备的人。”见拙作 “On Hacking”，于 <https://stallman.org/articles/on-hacking.html>。
 
 [^thegnu-2]: 参见[《应避免使用（或慎用）的词语》一文的“盗版（Piracy）”一节](words-to-avoid.md#piracy)查看“盗版”一词的更多错误用法。
 
@@ -346,18 +346,18 @@ Harmony 是一个兼容的替代库，设计为使得无需 Qt 运行 KDE 软件
 
 [^thegnu-6]: 我们现在对文档使用 GNU 自由文档许可证。
 
-[^thegnu-7]: 于我们的在线商店中可见，位于 <http://shop.fsf.org>。
+[^thegnu-7]: 于我们的在线商店中可见，位于 <https://shop.fsf.org>。
 
 [^thegnu-8]: “Bourne Again Shell” 是对 “Bourne Shell”——Unix 上普遍使用的 shell 玩的文字游戏。（Bourne 与表示出生的 born 谐音——译者注）
 
 [^thegnu-9]: 写于 1998 年。2009 年我们不再维护长任务列表。社区的自由软件开发得很快，我们没法全部追踪到。取而代之，我们有一个高优先级项目的列表——一个更短的列表，列举了我们十分想要鼓励人们去写的项目。
 
-[^thegnu-10]: 这个许可证现在叫 GNU Lesser General Public License（GNU 宽通用公共许可证），以免给出所有库都该使用它的印象。更多信息见《为什么你不应该在下一个函数库中使用宽 GPL》于 <http://www.gnu.org/philosophy/why-not-lgpl.html>。
+[^thegnu-10]: 这个许可证现在叫 GNU Lesser General Public License（GNU 宽通用公共许可证），以免给出所有库都该使用它的印象。更多信息见《为什么你不应该在下一个函数库中使用宽 GPL》于 <https://www.gnu.org/philosophy/why-not-lgpl.html>。
 
 [^thegnu-11]: Eric Raymond 是开源的主要拥护者；参见[《为什么说开源漏掉了自由软件的要点》](open-source-misses-the-point.md)。 
 
 [^thegnu-12]: 埃里克`雷蒙德（Eric. S. Raymond），《大教堂与集市》；此书已由机械工业出版社于 2014 年出版，卫剑钒译。
 
-[^thegnu-13]: 更多信息见 “GNU/Linux FAQ”，于 <http://gnu.org/gnu/gnu-linux-faq.html>, 和[《Linux 和 GNU 操作系统》](linux-and-gnu.md)。
+[^thegnu-13]: 更多信息见 “GNU/Linux FAQ”，于 <https://gnu.org/gnu/gnu-linux-faq.html>, 和[《Linux 和 GNU 操作系统》](linux-and-gnu.md)。
 
-[^thegnu-14]: 参见 <http://libreboot.org>。
+[^thegnu-14]: 参见 <https://libreboot.org>。

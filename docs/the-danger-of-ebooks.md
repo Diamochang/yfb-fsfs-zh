@@ -1,6 +1,6 @@
 ## 电子书的威胁<!--(pandoc) {#pandoc_the-danger-of-ebooks}(pandoc)-->
 
-> Copyright © 2011, 2014 Richard Stallman
+> Copyright © 2011, 2014 Richard Stallman.
 
 在这样一个由企业支配我们的政府并且制定法律的时代，任何技术上的进展都会为企业提供对公众施加新的限制条件的机会。本应赋予我们权利的技术现在被用于束缚我们。
 
