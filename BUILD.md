@@ -30,9 +30,17 @@ sudo pip3 install mkdocs
 
 ## PDF 文件
 
-这里使用了 TeX Live 2018 工具集，越新越好。Debian 和 Ubuntu 需要安装的包有 `texlive-xetex texlive-lang-chinese texlive-fonts-recommended lmodern texlive-fonts-extra fonts-liberation fonts-noto fonts-noto-cjk fonts-noto-unhinted fonts-noto-hinted librsvg2-binpdf2svg` Fedora 可以运行如下命令：
+这里使用了 TeX Live 工具集，越新越好。Debian 和 Ubuntu 可以运行如下命令：
 
-`sudo dnf -y install @"Authoring and Publishing" pandoc pandoc-pdf pandoc-citeproc texlive-textpos texlive-tocbibind texlive-framed  texlive-appendix texlive-tabulary texlive-fandol google-noto-cjk-fonts texlive-bigfoot`
+```bash
+sudo apt install texlive-xetex texlive-lang-chinese texlive-fonts-recommended lmodern texlive-fonts-extra fonts-liberation fonts-noto fonts-noto-cjk fonts-noto-unhinted fonts-noto-hinted pandoc imagemagick
+```
+
+Fedora 可以运行如下命令：
+
+```bash
+sudo dnf -y install @"Authoring and Publishing" pandoc pandoc-pdf imagemagick texlive-textpos texlive-tocbibind texlive-framed texlive-appendix texlive-tabulary texlive-fandol google-noto-cjk-fonts texlive-bigfoot
+```
 
 这样可以安装必须的包。~~低于 Fedora 23（含）或 Debian 9 或 Ubuntu 16.04 的版本以及其他发行版可能需要安装 Fandol 系列字体，可以运行`install.fandol.sh`脚本安装。~~（编辑本已弃用 Fandol，详见 [Issue #1](https://github.com/Diamochang/yfb-fsfs-zh/issues/1)）
 

@@ -69,9 +69,9 @@ APPENDIXS =	docs/appendix-a.md \
 			docs/appendix-c.md
 APPENDIXS_PANDOC = $(shell echo $(APPENDIXS) | sed 's/.md/_pandoc.md/g')
 APPENDIXS_PDF = $(shell echo $(APPENDIXS) | sed 's/.md/_pdf.md/g')
-PDF_IMG =	docs/category.pdf \
-			docs/code.pdf \
-			docs/song-book-jutta-scrunch-crop-zh.pdf
+PDF_IMG =	category-zh.pdf \
+			code-zh.pdf \
+			song-book-jutta-scrunch-crop-zh.pdf
 
 all: book html
 
@@ -114,11 +114,16 @@ $(PREFACES_PDF) $(CHAPTERS_PDF) $(APPENDIXS_PDF): docs/%_pdf.md : docs/%_pandoc.
 	@sed -i 's/<!--(pdf)//g;s/(pdf)-->//g;s/.svg)<!--(pdf-svg)-->/.pdf)/g;s/<!--(pdf-newline)--><br>/\\newline{}/g' $@
 
 
-$(BOOKNAME).pdf: $(TITLE)  $(PREFACES_PDF) $(CHAPTERS_PDF) $(APPENDIXS_PDF) $(PDF_IMG)
+$(BOOKNAME).pdf: $(TITLE)  $(PREFACES_PDF) $(CHAPTERS_PDF) $(APPENDIXS_PDF)
 	$(PANDOC_TEX) ${PREFACES_PDF} -o preface.tex
 	$(PANDOC_TEX) ${CHAPTERS_PDF} -o chapters.tex
 	$(PANDOC_TEX) ${APPENDIXS_PDF} -o appendix.tex
-	cp docs/*.png .
+	cp docs/code-zh.svg .
+	cp docs/song-book-jutta-scrunch-crop-zh.png .
+	cp docs/category-zh.png .
+	convert code-zh.svg code-zh.pdf
+	convert song-book-jutta-scrunch-crop-zh.png song-book-jutta-scrunch-crop-zh.pdf
+	convert category-zh.png category.pdf
 	pandoc --pdf-engine=xelatex *.tex -o $@ --template $(TEMPLATE)/template.tex
 	@echo "PDF Compiled!"
 	@echo
