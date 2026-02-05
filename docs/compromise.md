@@ -6,7 +6,7 @@
 
 > 1983 年 9 月 27 日，我发起了一项计划，致力于创造一个完全自由的操作系统，它称作 GNU——意为 GNU 不是 Unix（GNU's Not Unix）。为了纪念 GNU 操作系统 25 周年，我写出了这篇文章，旨在阐述我们的社区怎样才能避开破坏性的妥协。除了避开这类妥协之外，您还可通过很多其他方式帮助 GNU 和自由软件。其中一条基本方式是以合作成员的身份加入自由软件基金会（FSF）[^compromise-1]。
 
-> 在生活中的另一个领域存在这样一种类似的观点，例如文章“‘Nudge’ Is Not Enough, It’s True. But We Already Knew That” [https://guardian.co.uk/commentisfree/2011/jul/19/nudge-is-not-enough-behaviour-change](https://guardian.co.uk/commentisfree/2011/jul/19/nudge-is-not-enough-behaviour-change)（Jonathan Rowson，2011 年 7 月 19 日）所指出的观点：除了温和的劝说，我们还需要态度和视角方面的转变。
+> 在生活中的另一个领域存在这样一种类似的观点，例如文章“'Nudge' Is Not Enough, It's True. But We Already Knew That”（Jonathan Rowson，2011 年 7 月 19 日，<https://guardian.co.uk/commentisfree/2011/jul/19/nudge-is-not-enough-behaviour-change>）所指出的观点：除了温和的劝说，我们还需要态度和视角方面的转变。
 
 自由软件运动致力于带来一场社会变革：让所有软件成为自由的[^compromise-2]，这样所有软件用户将获得自由，并且将会成为协作化社区的一部分。与之相反，任何一个非自由的程序赋予了其开发者凌驾于用户之上的不公权力。我们的目标是终结这种不公。
 
@@ -51,11 +51,11 @@ GNU 宽通用公共许可证（GNU LGPL）的目的在于一种妥协，我们�
 一条能够让您更快前行的道路有时并不是一条更好的道路，如果它通往错误的目的地。为了成就一个充满雄心壮志的目标，做出一些妥协是必需的。但是，一定要警惕那些将您引离最终目标的妥协。
 
 
- [^compromise-1]: 您可以在此通过加入会员的方式支持自由软件基金会：<https://my.fsf.org/join>. 
+ [^compromise-1]: 您可以在此通过加入会员的方式支持自由软件基金会：<https://my.fsf.org/join>。
 
  [^compromise-2]: 这里的“自由”应理解为 freedom 中的自由，参见[《什么是自由软件？》](free-sw.md)一文以获得自由软件的完整定义。 
 
- [^compromise-3]: 参见自由软件基金会执行董事 John Sullivan 于 2008 年发表的文章：“The Last Mile Is Always the Hardest,”，位于 [https://fsf.org/bulletin/2008/spring/the-last-mile-is-always-the-hardest](https://fsf.org/bulletin/2008/spring/the-last-mile-is-always-the-hardest)，所提及的他本人对于这一问题的看法。 
+ [^compromise-3]: 参见自由软件基金会执行董事 John Sullivan 于 2008 年发表的文章：“The Last Mile Is Always the Hardest,”，位于 <https://fsf.org/bulletin/2008/spring/the-last-mile-is-always-the-hardest>，所提及的他本人对于这一问题的看法。 
 
  [^compromise-4]: 您可以在这里找到自由操作系统发行版准则（GNU FSDG）：<https://gnu.org/philosophy/free-system-distribution-guidelines.html>。 
 

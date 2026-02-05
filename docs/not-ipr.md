@@ -54,7 +54,7 @@
 
 -   Rickard Falkvinge 也支持拒绝使用“知识产权”这一概念[^ipr-3]。
 
- [^ipr-1]: 标题原译文是“您说过‘知识产权’吗？这是一种迷惑的幻景”。为了便于理解，编辑本改为 GNU CTT 提供的更为贴切、直白的译文。——编者注。
+ [^ipr-1]: 标题原译文是“您说过‘知识产权’吗？这是一种迷惑的幻景”。为了便于理解，编辑本改为 GNU CTT 提供的更为贴切、直白的译文。——编者注
 
  [^ipr-2]: Nicolas Kayser-Bril, “Africa Is Not a Country”，于 2014 年一月 24 日发表于 <https://theguardian.com/world/2014/jan/24/africa-clinton>。
 

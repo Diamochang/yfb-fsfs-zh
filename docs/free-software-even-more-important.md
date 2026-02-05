@@ -88,7 +88,7 @@ SaaSS 并不意味着运行在服务器上的程序是非自由的（虽然大�
 
 我们以及上千用户从 1984 年开始就这么做，这样才有了现在我们使用的自由的 GNU/Linux 操作系统，所有人——无论是否是程序员——都可以使用。以一个程序员或活动家的身份，加入我们的事业。让我们一起解放所有计算机用户吧。
 
-[^fsemi-1]: 参见 <http://gnu.org/proprietary/proprietary.html> 可知这些不断增加的威胁。
+[^fsemi-1]: 参见 <https://gnu.org/proprietary/proprietary.html> 可知这些不断增加的威胁。
 
 [^fsemi-2]: 自由软件的完整定义可参见[《什么是自由软件？》](free-sw.md)一文。
 

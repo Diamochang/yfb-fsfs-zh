@@ -22,7 +22,8 @@ Valve，一家知名的游戏公司[^nonfreegame-1]，主要发布各种带有�
 
 如果您想要推进计算中的自由事业，请注意不要将这类游戏在 GNU/Linux 上的可获得性说成是对我们事业的支持。与之相反，您可以向人们介绍 LibreGameWiki[^nonfreegame-8]，那里试图列出所有自由的游戏软件，以及 FreeGameDev 论坛[^nonfreegame-9]，还有 LibrePlanet Gaming Collective 的自由游戏之夜[^nonfreegame-10]。
 
- [^nonfreegame-1]：Valve 同时拥有全球最大的专有游戏平台 Steam。——编者注。
+
+ [^nonfreegame-1]: Valve 同时拥有全球最大的专有游戏平台 Steam。——编者注
 
  [^nonfreegame-2]: 参见[《如今自由软件更加重要》](free-software-even-more-important.md) 一文以获得更多信息。
 
@@ -38,6 +39,6 @@ Valve，一家知名的游戏公司[^nonfreegame-1]，主要发布各种带有�
 
  [^nonfreegame-8]: 参见 <https://libregamewiki.org/Main_Page>.
 
- [^nonfreegame-9]: 参见 <http://forum.freegamedev.net/index.php>.
+ [^nonfreegame-9]: 参见 <https://forum.freegamedev.net/index.php>.
 
- [^nonfreegame-10]: 参见 <http://libreplanet.org/wiki/Group:LibrePlanet_Gaming_Collective>.
+ [^nonfreegame-10]: 参见 <https://libreplanet.org/wiki/Group:LibrePlanet_Gaming_Collective>.

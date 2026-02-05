@@ -60,11 +60,11 @@
 
 [^sell-2]: 也称为“专有软件”，参见[《自由与非自由软件的分类》一文的相关章节](categories.md#proprietary-software)。
 
-[^sell-3]: 参见 Savannah 任务列表 <http://savannah.gnu.org/projects/tasklist>。
+[^sell-3]: 参见 Savannah 任务列表 <https://savannah.gnu.org/projects/tasklist>。
 
-[^sell-4]: 参见 <http://gnu.org/doc/doc.html>。
+[^sell-4]: 参见 <https://gnu.org/doc/doc.html>。
 
-[^sell-5]: 参考[《应避免使用（或慎用）的词语》一文的“贩卖软件（Sell Software）”一节](words-to-avoid.md#sell-software)一文了解为何“售卖软件”这个说法有歧义。
+[^sell-5]: 参考[《应避免使用（或慎用）的词语》一文的“贩卖软件（Sell Software）”一节](words-to-avoid.md#sell-software)了解为何“售卖软件”这个说法有歧义。
 
-[^sell-6]: 参见[《GNU 通用公共许可证》一文的第六段](gpl.md#6)。
+[^sell-6]: 参见[《GNU 通用公共许可证》](gpl.md)的第六段。
 

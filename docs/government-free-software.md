@@ -106,8 +106,8 @@
 
 [^gov-1]: 参见[《什么是自由软件？》](free-sw.md)一文了解自由软件的定义
 
-[^gov-2]: 参见技术性缺陷（Defective by Design）运动网站 [https://defectivebydesign.org/what_is_drm](https://defectivebydesign.org/what_is_drm) 以及[《应避免使用（或慎用）的词语》一文中有关 DRM 的章节](words-to-avoid.md#digital-rights-management)了解相关问题。
+[^gov-2]: 参见技术性缺陷（Defective by Design）运动网站 <https://defectivebydesign.org/what_is_drm> 以及[《应避免使用（或慎用）的词语》一文中有关 DRM 的章节](words-to-avoid.md#digital-rights-management)了解相关问题。
 
 [^gov-3]: 参见[《服务器真正是在为谁服务？》](who-does-that-server-really-serve.md)一文的相关章节，了解 SaaSS。
 
-[^gov-4]: 参见我的文章“Technological Neutrality and Free Software” [http://www.gnu.org/philosophy/technological-neutrality.html](http://www.gnu.org/philosophy/technological-neutrality.html)。
+[^gov-4]: 参见我的文章“Technological Neutrality and Free Software”（<https://www.gnu.org/philosophy/technological-neutrality.html>）。

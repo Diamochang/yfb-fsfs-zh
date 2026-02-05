@@ -4,7 +4,7 @@
 
 > Copyright © 2000, 2006, 2007 Richard Stallman.
 
->关于此主题了解更多，你也可以阅读我们的 GNU/Linux 问答 <https://gnu.org/gnu/gnu-linux-faq.html> 和本书的[《Linux 和 GNU 操作系统》](linux-and-gnu.md)一文，它讲了 GNU/Linux 系统的历史，和这命名的问题有关。以及另一篇文章《从未听过 GNU 的 GNU 用户》<https://gnu.org/gnu/gnu-users-never-heard-of-gnu.html>。
+> 了解此主题，你也可以阅读我们的 GNU/Linux 问答 <https://gnu.org/gnu/gnu-linux-faq.html> 和本书的[《Linux 和 GNU 操作系统》](linux-and-gnu.md)一文，它讲了 GNU/Linux 系统的历史，和这命名的问题有关。另一篇文章《从未听过 GNU 的 GNU 用户》（<https://gnu.org/gnu/gnu-users-never-heard-of-gnu.html>）也有帮助。
 
 顾名则思义；我们所选的名字代表了我们所要传达的思想。一个不恰当的名字会向人们传递错误的思想。玫瑰不管叫什么闻起来总是甜的——但是如果你把它叫作笔，当人们用它写字时将会很失望。同样地，如果你把笔叫作“玫瑰”，人们可能就不知道它能做什么了。如果你把我们的操作系统称为“Linux”，则会传达一些关于此系统起源、历史和目的的错误概念。如果你称之为 GNU/Linux，这将传达（虽然不详细）一个准确的概念。
 
@@ -40,6 +40,6 @@ GNU 工程是理想主义的，但是那些鼓励理想主义的人面临很大�
 
 如果“工作”真的做了，如果除了信誉没有其他利害攸关，也许放弃可能会更明智。但是我们没有处在那个境地。为了鼓励人们做那些需要做的工作，我们需要让我们已经做了的工作被认可。要帮助我们就请将这个系统称为 GNU/Linux 吧。
 
-[^whygnulinux-1]: 参见 Dietmar Muller 于 2001 年 7 月 10 日发表的文章《“Stallman: Love Is Not Free”》<https://zdnet.com/article/stallman-love-is-not-free/>。
+[^whygnulinux-1]: 参见 Dietmar Muller 于 2001 年 7 月 10 日发表的文章《“Stallman: Love Is Not Free”》（<https://zdnet.com/article/stallman-love-is-not-free/>）。
 
-[^whygnulinux-2]: 参见《“自由的桎梏——Java 陷阱”》<https://gnu.org/philosophy/java-trap.html> 一文。
+[^whygnulinux-2]: 参见《“自由的桎梏——Java 陷阱”》（<https://gnu.org/philosophy/java-trap.html>）一文。

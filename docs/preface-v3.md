@@ -24,4 +24,4 @@
 
 <!--(pdf)\hfill\ (pdf)--> <!-- (pdf)--><p align="right"><!--(pdf) -->RICHARD STALLMAN<!-- (pdf)--></p><!--(pdf) -->
 
- [^preface-1]: 编辑本的封面由 Mike Wang 独立设计和排版。——编者注。
+ [^preface-1]: 编辑本的封面由 Mike Wang 独立设计和排版。——编者注

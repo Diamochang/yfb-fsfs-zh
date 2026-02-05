@@ -106,11 +106,11 @@
 
 在大多数情况下，这一概念指代用于更新网站页面的系统。对于这种定义，我们推荐“网站修改系统”（WRS，web site revision system）这一概念。
 
-### 创作共用许可的（Creative Commons Licensed）
+### 知识共享许可的（Creative Commons Licensed）
 
-对于一篇作品的许可证，最重要的方面是它是否自由。创作共用（CC）发布了七种许可证；其中三种（CC BY、CC BY-SA 和 CC0）是自由的，而其他几种则是非自由的。因此，将一篇作品描述为“创作共用许可的”未能说明它是否是自由的，并且暗示这个问题并不重要。这一论述也许是准确的，但它对于自由的省略是有害的。
+对于一篇作品的许可证，最重要的方面是它是否自由。知识共享（CC）发布了七种许可证；其中三种（CC BY、CC BY-SA 和 CC0）是自由的，而其他几种则是非自由的。因此，将一篇作品描述为“知识共享许可的”未能说明它是否是自由的，并且暗示这个问题并不重要。这一论述也许是准确的，但它对于自由的省略是有害的。
 
-为了鼓励人们关注最重要的区别，务必具体指定*哪种*创作共用许可证被使用，例如“使用 CC BY-SA 许可证”。如果您不知道一篇特定的作品应该使用哪种许可证，您需要设法获知这一点才能下定结论。
+为了鼓励人们关注最重要的区别，务必具体指定*哪种*知识共享许可证被使用，例如“使用 CC BY-SA 许可证”。如果您不知道一篇特定的作品应该使用哪种许可证，您需要设法获知这一点才能下定结论。
 
 ### 创造者（Creator）
 
@@ -328,7 +328,7 @@ Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Lin
 
 ### 信任计算（Trusted Computing）
 
-“信任计算”是其倡导者所起的名字，用于指代这样一种重新设计计算机的阴谋，这使得应用程序开发者可以信任您的计算机将会服从他们而非您[^wordtoavoid-32]。从他们的角度看，这是“信任”；从您的角度看，这是“背叛”。
+“信任计算”是其倡导者所起的名字，用于指代这样一种重新设计计算机的阴谋，这使得应用程序开发者可以信任您的计算机将会服从他们而非您[^wordtoavoid-31]。从他们的角度看，这是“信任”；从您的角度看，这是“背叛”。
 
 ### 供应商（Vendor）
 
@@ -348,27 +348,27 @@ Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Lin
 
  [^wordtoavoid-6]: 参见《自由与非自由软件的分类》以获得[关于私有软件的更多信息](categories.md#proprietary-software)。
 
- [^wordtoavoid-7]: John Harris，“Why Hackers and Spooks Want Our Heads in the Cloud”，2011 年四月 25 日，[https://guardian.co.uk/commentisfree/2011/apr/25/hackers-spooks-cloud-antiauthoritarian-dream](https://guardian.co.uk/commentisfree/2011/apr/25/hackers-spooks-cloud-antiauthoritarian-dream)。
+ [^wordtoavoid-7]: John Harris，“Why Hackers and Spooks Want Our Heads in the Cloud”，2011 年 4 月 25 日，[https://guardian.co.uk/commentisfree/2011/apr/25/hackers-spooks-cloud-antiauthoritarian-dream](https://guardian.co.uk/commentisfree/2011/apr/25/hackers-spooks-cloud-antiauthoritarian-dream)。
 
  [^wordtoavoid-8]: 参见[《服务器真正是在为谁服务？》](who-does-that-server-really-serve.md)以获得关于此问题的更多信息。
 
- [^wordtoavoid-9]: Peter Mell 和 Anthony Grance，“The NIST Definition of Cloud Computing: Recommendations of the National Institute of Standards and Technology”，NIST Special Publication 800-145 (2011 年九月)，[https://csrc.nist.gov/publications/nistpubs/800-145/SP800-145.pdf](https://csrc.nist.gov/publications/nistpubs/800-145/SP800-145.pdf)。
+ [^wordtoavoid-9]: Peter Mell 和 Anthony Grance，“The NIST Definition of Cloud Computing: Recommendations of the National Institute of Standards and Technology”，NIST Special Publication 800-145 (2011 年 9 月)，[https://csrc.nist.gov/publications/nistpubs/800-145/SP800-145.pdf](https://csrc.nist.gov/publications/nistpubs/800-145/SP800-145.pdf)。
 
- [^wordtoavoid-10]: Dan Farber，“Oracle’s Ellison Nails Cloud Computing”，2008 年九月 26 日，<https://news.cnet.com/8301-13953_3-10052188-80.html>。
+ [^wordtoavoid-10]: Dan Farber，“Oracle’s Ellison Nails Cloud Computing”，2008 年 9 月 26 日，<https://news.cnet.com/8301-13953_3-10052188-80.html>。
 
  [^wordtoavoid-11]: 参见[《对版权的错误解读——一系列错误》](misinterpreting-copyright.md) 一文以获得关于此问题的更多信息。
 
- [^wordtoavoid-12]: Lara O’Reilly，“A Former Googler Has Declared War on Ad Blockers with a New Startup That Tackles Them in an Unorthodox Way”，2015 年六月 18 日，[https://uk.businessinsider.com/former-google-exec-launches-sourcepoint-with-10-million-series-a-funding-2015-6?r=US&IR=T](https://uk.businessinsider.com/former-google-exec-launches-sourcepoint-with-10-million-series-a-funding-2015-6?r=US&IR=T)。
+ [^wordtoavoid-12]: Lara O’Reilly，“A Former Googler Has Declared War on Ad Blockers with a New Startup That Tackles Them in an Unorthodox Way”，2015 年 6 月 18 日，[https://uk.businessinsider.com/former-google-exec-launches-sourcepoint-with-10-million-series-a-funding-2015-6?r=US&IR=T](https://uk.businessinsider.com/former-google-exec-launches-sourcepoint-with-10-million-series-a-funding-2015-6?r=US&IR=T)。
 
  [^wordtoavoid-13]: 参见[《如今自由软件更加重要》](free-software-even-more-important.md)一文以获得关于此问题的更多信息。
 
- [^wordtoavoid-14]: Owen Hatherley，“Be a User, Not a Consumer: How Capitalism Has Changed Our Language”，2013 年八月 11 日，[https://theguardian.com/commentisfree/2013/aug/11/capitalism-language-raymond-williams](https://theguardian.com/commentisfree/2013/aug/11/capitalism-language-raymond-williams)。
+ [^wordtoavoid-14]: Owen Hatherley，“Be a User, Not a Consumer: How Capitalism Has Changed Our Language”，2013 年 8 月 11 日，[https://theguardian.com/commentisfree/2013/aug/11/capitalism-language-raymond-williams](https://theguardian.com/commentisfree/2013/aug/11/capitalism-language-raymond-williams)。
 
- [^wordtoavoid-15]: 美国摇滚音乐家 Courtney Love 于 2000 年五月 16 日在数字好莱坞在线娱乐会议上的演讲的未编辑抄本可以在此找到：<https://www.salon.com/2000/06/14/love_7/>。
+ [^wordtoavoid-15]: 美国摇滚音乐家 Courtney Love 于 2000 年 5 月 16 日在数字好莱坞在线娱乐会议上的演讲的未编辑抄本可以在此找到：<https://www.salon.com/2000/06/14/love_7/>。
 
  [^wordtoavoid-16]: 参见[《还在用“知识产权”这词吗？它只是看上去很美》](not-ipr.md)以及[本文的“知识产权（Intellectual Property）”一节](words-to-avoid.md#intellectual-property)获知这一问题的原因。
 
- [^wordtoavoid-17]:  Cory Doctorow，“Encryption Won’t Work If It Has a Back Door Only the ‘Good Guys’ Have Keys To”，2015 年五月 1 日，[https://theguardian.com/technology/2015/may/01/encryption-wont-work-if-it-has-a-back-door-only-the-good-guys-have-keys-to-](https://theguardian.com/technology/2015/may/01/encryption-wont-work-if-it-has-a-back-door-only-the-good-guys-have-keys-to-)。
+ [^wordtoavoid-17]:  Cory Doctorow，“Encryption Won’t Work If It Has a Back Door Only the ‘Good Guys’ Have Keys To”，2015 年 5 月 1 日，[https://theguardian.com/technology/2015/may/01/encryption-wont-work-if-it-has-a-back-door-only-the-good-guys-have-keys-to-](https://theguardian.com/technology/2015/may/01/encryption-wont-work-if-it-has-a-back-door-only-the-good-guys-have-keys-to-)。
 
  [^wordtoavoid-18]: 参见 <https://www.gnu.org/philosophy/floss-and-foss.html> 以获得关于此问题的更多信息。
 
@@ -392,9 +392,9 @@ Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Lin
 
  [^wordtoavoid-28]: 参见这份说明以获得更多信息 <https://gnu.org/proprietary/proprietary-surveillance.html\#SpywareInSkype>。
 
- [^wordtoavoid-29]: 欧洲议会，“Directive on the Patentability of Computer-Implemented Inventions”，2003 年九月 24 日，[https://web.archive.org/web/20071222001014/http://www.swpat.ffii.org/papers/europarl0309](https://web.archive.org/web/20071222001014/http://www.swpat.ffii.org/papers/europarl0309)。
+ [^wordtoavoid-29]: 欧洲议会，“Directive on the Patentability of Computer-Implemented Inventions”，2003 年 9 月 24 日，[https://web.archive.org/web/20071222001014/http://www.swpat.ffii.org/papers/europarl0309](https://web.archive.org/web/20071222001014/http://www.swpat.ffii.org/papers/europarl0309)。
 
  [^wordtoavoid-30]: 为了驳斥他们，您可以援引这一真实案例：Harper Lee 起诉她的代理人涉嫌诱骗她将 To Kill a Mockingbird 一书的版权指认给他。
 
-[^wordtoavoid-32]: 参见[《您能够信任您的计算机吗？》](can-you-trust.md)以获得关于此问题的更多信息。
+ [^wordtoavoid-31]: 参见[《您能够信任您的计算机吗？》](can-you-trust.md)以获得关于此问题的更多信息。
 
