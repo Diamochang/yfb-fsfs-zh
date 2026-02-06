@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/Diamochang/yfb-fsfs-zh.svg?branch=main)](https://travis-ci.org/Diamochang/yfb-fsfs-zh)
+<!-- [![Build Status](https://travis-ci.org/Diamochang/yfb-fsfs-zh.svg?branch=main)](https://travis-ci.org/Diamochang/yfb-fsfs-zh) -->
 [![GitHub release](https://img.shields.io/github/release/Diamochang/yfb-fsfs-zh.svg)](https://github.com/Diamochang/yfb-fsfs-zh/releases)
 [![Github All Releases](https://img.shields.io/github/downloads/Diamochang/yfb-fsfs-zh/total.svg)](https://github.com/Diamochang/yfb-fsfs-zh/releases)
 

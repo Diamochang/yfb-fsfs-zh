@@ -1,0 +1,50 @@
+name: Build and Deploy
+
+on:
+  push:
+    tags:
+      - '*'
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install TeX Live and dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            texlive-xetex \
+            texlive-lang-chinese \
+            texlive-fonts-recommended \
+            lmodern \
+            texlive-fonts-extra \
+            fonts-liberation \
+            fonts-noto \
+            fonts-noto-cjk \
+            fonts-noto-unhinted \
+            fonts-noto-hinted \
+            pandoc \
+            imagemagick
+
+      - name: Build PDF and EPUB
+        run: |
+          make pdf
+          make epub
+
+      - name: List generated files
+        run: |
+          echo "===================================================================="
+          ls -lah yfb-fsfs-zh.*
+
+      - name: Upload release assets
+        uses: softprops/action-gh-release@v1
+        with:
+          files: |
+            yfb-fsfs-zh.pdf
+            yfb-fsfs-zh.epub
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
