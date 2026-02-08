@@ -1,4 +1,4 @@
-[![Build Status](https://github.com/Diamochang/yfb-fsfs-zh/actions/workflows/build.yaml/badge.svg?branch=main)](https://github.com/Diamochang/yfb-fsfs-zh/actions/workflows/build.yaml)
+[![Build Status](https://github.com/Diamochang/yfb-fsfs-zh/actions/workflows/build.yaml/badge.svg)](https://github.com/Diamochang/yfb-fsfs-zh/actions/workflows/build.yaml)
 [![GitHub release](https://img.shields.io/github/release/Diamochang/yfb-fsfs-zh.svg)](https://github.com/Diamochang/yfb-fsfs-zh/releases)
 [![Github All Releases](https://img.shields.io/github/downloads/Diamochang/yfb-fsfs-zh/total.svg)](https://github.com/Diamochang/yfb-fsfs-zh/releases)
 
