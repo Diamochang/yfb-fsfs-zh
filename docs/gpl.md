@@ -1,6 +1,6 @@
 ## GNU 通用公共许可证<!--(pandoc) {#pandoc_gpl}(pandoc)-->
 
-> 中文翻译：bergwolf <bergwolf@gmail.com>，源出处：<https://sites.google.com/site/bergwolf02/gplv3_zh>。
+> 中文翻译：bergwolf（<bergwolf@gmail.com>），源出处：<https://sites.google.com/site/bergwolf02/gplv3_zh>。
 
 This is an unofficial translation of the GNU General Public License into Chinese. It was not published by the Free Software Foundation, anddoes not legally state the distribution terms for software that uses the GNU GPL--ONLY the original English text of the GNU GPL (<https://www.gnu.org/licenses/gpl-3.0.html>) does that. However, we hope that this translation will help Chinese speakers understand the GNU GPL better.
 

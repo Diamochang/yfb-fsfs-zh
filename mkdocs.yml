@@ -78,4 +78,4 @@ markdown_extensions:
     - admonition:
     - footnotes
 
-copyright: Copyright &copy; 2019 <a href="https://beijinglug.club">Beijing GNU/Linux User Group</a>.
+copyright: Copyright &copy; 2016-2019 <a href="https://beijinglug.club">Beijing GNU/Linux User Group</a>, 2026 Mike Wang. Licensed under GNU FDL 1.3 or above.
